@@ -1,4 +1,4 @@
-# Scientist’s Mission
+# Scientist’s Mission (0153B047, 林智裕)
 
 [GitHub profile](https://github.com/mrhedg-42)
 
